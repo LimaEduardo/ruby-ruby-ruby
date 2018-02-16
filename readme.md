@@ -10,4 +10,5 @@ Feel free to give some feedback! :D
 Files |
 ------------ |
 [Hello World!](https://github.com/LimaEduardo/ruby-ruby-ruby/tree/master/HelloWorld) |
-[The Bookshelf Problem](https://github.com/LimaEduardo/ruby-ruby-ruby/tree/master/BookshelfProblem) | a
+[The Bookshelf Problem](https://github.com/LimaEduardo/ruby-ruby-ruby/tree/master/BookshelfProblem) |
+[First Recurring Character](https://github.com/LimaEduardo/ruby-ruby-ruby/tree/master/FirstRecurringCharacter) |
